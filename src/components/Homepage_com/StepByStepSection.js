@@ -32,7 +32,7 @@ const StepByStepSection = () => {
   };
 
   return (
-    <section>
+    <section style={{ backgroundColor: "#f8f9fa" }}>
       <div className="d-flex justify-content-center">
         <div className="row w-75">
           <div className="col-md-6 p-4">
