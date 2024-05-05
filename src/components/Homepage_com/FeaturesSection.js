@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const FeaturesSection = () => {
   return (
-    <Section>
+    <Section className="p-5">
       <Container>
         <Row>
           <Column>

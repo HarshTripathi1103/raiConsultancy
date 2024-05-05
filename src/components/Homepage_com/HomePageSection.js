@@ -6,22 +6,30 @@ const HomePageSection = () => {
       "url(https://wallpapercave.com/wp/wp7098419.jpg)",
     backgroundSize: "cover",
     backgroundRepeat: "no-repeat",
-    padding: "100px 0",
+    padding: "60px 0",
     fontFamily: "Poppins, sans-serif",
-    backgroundColor: "rgba(0, 0, 0, 0.5)", // Lightened the background overlay
+    position: "relative",
+  };
+
+  const overlayStyle = {
+    position: "absolute",
+    top: 0,
+    left: 0,
+    width: "100%",
+    height: "100%",
   };
 
   const headerStyle = {
-    fontSize: "2.8rem", // Slightly increased font size
+    fontSize: "2.8rem",
     marginBottom: "20px",
-    color: "#fff", // Set text color to white
+    color: "orange",
   };
 
   const paragraphStyle = {
     marginBottom: "20px",
     lineHeight: "1.8",
-    fontSize: "1.1rem", // Increased font size
-    color: "#fff", // Set text color to white
+    fontSize: "1.1rem",
+    color: "#fff",
   };
 
   const formControlStyle = {
@@ -29,20 +37,22 @@ const HomePageSection = () => {
   };
 
   const formParaStyle = {
-    fontSize: "1rem", // Increased font size
-    color: "#fff", // Set text color to white
+    fontSize: "1rem",
+    color: "#fff",
   };
 
   const formContainerStyle = {
-    maxWidth: "100%", // Adjusted form container width for responsiveness
-    borderRadius: "15px", // Added border radius
+    maxWidth: "100%",
+    borderRadius: "15px",
+    backgroundColor: "rgba(0, 0, 0, 0.7)",
+    border: "1px solid #333",
   };
 
   return (
     <section className="mask" style={sectionStyle}>
       <div className="container">
         <div className="row align-items-center text-white">
-          <div className="col-md-6 px-md-5 p-5">
+          <div className="col-md-6 px-md-5 px-5">
             <h1 className="font-weight-bold" style={headerStyle}>
               An expert advice to climb up the stairs of your business’s success
             </h1>
@@ -55,7 +65,7 @@ const HomePageSection = () => {
               thrive.
             </p>
           </div>
-          <div className="col-md-6 shadow-lg p-4" style={{ ...formContainerStyle, backgroundColor: "rgba(0, 0, 0, 0.7)", border: "1px solid #333" }}>
+          <div className="col-md-6 shadow-lg p-4" style={formContainerStyle}>
             <div className="text-left mb-4">
               <p className="px-3" style={formParaStyle}>
                 Get guidance on strategies and plans for your business with the
@@ -89,6 +99,7 @@ const HomePageSection = () => {
           </div>
         </div>
       </div>
+      <div style={overlayStyle}></div>
     </section>
   );
 };
