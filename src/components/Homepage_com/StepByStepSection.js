@@ -45,10 +45,10 @@ const StepByStepSection = () => {
           <div className="col-md-6 d-flex align-items-center" style={contentStyles}>
             <div>
               <h2 style={titleStyles}>
-                A closer look at the <span style={{ color: "#ff7469" }}>step by step</span> functionality of Rai Consultancy
+                A closer look at the <span style={{ color: "#ff7469" }}>step by step</span> functionality of soft emerald
               </h2>
               <p className="text-secondary">
-                Rai consultancy follows a step by step process in a timely manner to attain your business’ success and stability. The process goes by:
+                soft emerald follows a step by step process in a timely manner to attain your business’ success and stability. The process goes by:
               </p>
               <ul style={listStyles} className="text-secondary">
                 <li style={listItemStyles}>

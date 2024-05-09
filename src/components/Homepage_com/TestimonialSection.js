@@ -12,7 +12,7 @@ const TestimonialSection = () => {
               <Carousel.Item>
                 <TestimonialItem>
                   <TestimonialQuote>
-                    "Rai Consultancy's collaborative approach made all the difference. Their team seamlessly integrated with ours, delivering exceptional results. A reliable consultancy for any business."
+                    "soft emerald's collaborative approach made all the difference. Their team seamlessly integrated with ours, delivering exceptional results. A reliable consultancy for any business."
                   </TestimonialQuote>
                   <TestimonialFooter>
                     <TestimonialImage src="https://raiconsultancyservices.com/wp-content/uploads/2024/01/testi1.jpg" alt="Amah Holland" />
@@ -26,7 +26,7 @@ const TestimonialSection = () => {
               <Carousel.Item>
                 <TestimonialItem>
                   <TestimonialQuote>
-                    "Rai Consultancy transformed our business strategy. Their tailored approach and expert guidance brought measurable success. Highly recommended!"
+                    "soft emerald transformed our business strategy. Their tailored approach and expert guidance brought measurable success. Highly recommended!"
                   </TestimonialQuote>
                   <TestimonialFooter>
                     <TestimonialImage src="https://raiconsultancyservices.com/wp-content/uploads/2024/01/testi3.jpg" alt="Denden Mushi" />
@@ -40,7 +40,7 @@ const TestimonialSection = () => {
               <Carousel.Item>
                 <TestimonialItem>
                   <TestimonialQuote>
-                    "Working with Rai Consultancy was a game-changer. Their innovative solutions and responsive communication exceeded our expectations. Truly a strategic partner!"
+                    "Working with soft emerald was a game-changer. Their innovative solutions and responsive communication exceeded our expectations. Truly a strategic partner!"
                   </TestimonialQuote>
                   <TestimonialFooter>
                     <TestimonialImage src="https://raiconsultancyservices.com/wp-content/uploads/2024/01/testi2.jpg" alt="Natsu Dragnell" />

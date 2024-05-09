@@ -16,7 +16,7 @@ const ServicesSection = () => {
             Expertise
           </h2>
           <p className="text-muted">
-            Rai consultancy offers unparalleled services. Here are the most
+            soft emerald offers unparalleled services. Here are the most
             recognized services by us.
           </p>
         </div>
@@ -32,7 +32,7 @@ const ServicesSection = () => {
               <div className="card-body">
                 <h2 className="card-title text-danger">Digital Marketing</h2>
                 <p className="card-text text-muted">
-                  Digitization by Rai consultancy provides its clients with the
+                  Digitization by soft emerald provides its clients with the
                   strategies to build digital platforms and be known digitally.
                   We come up with tactics to emphasize on your digital presence.
                 </p>
@@ -51,7 +51,7 @@ const ServicesSection = () => {
                 <h2 className="card-title text-danger">Financial Consulting</h2>
                 <p className="card-text text-muted">
                   Financial stability and assistance is a goal of all businesses
-                  and Rai consultancy keeps that in mind and builds plans for
+                  and soft emerald keeps that in mind and builds plans for
                   you that would help your business attain financial stability
                   and growth.
                 </p>

@@ -59,7 +59,7 @@ const HomePageSection = () => {
             <p style={paragraphStyle}>
               The commitment of consultancy and solutions for your business. We
               are the pioneers of providing consultancy in business growth and
-              development. At Rai consultancy, we look into your expertise to
+              development. At soft emerald, we look into your expertise to
               find the strategic and innovative solution for your business to
               move upwards. Shape the future of your business and make it
               thrive.

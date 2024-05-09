@@ -8,12 +8,12 @@ const FooterSection = () => {
                 <Row>
                     <Column>
                         <Logo>
-                            <a href="https://wpmet.com/plugin/elementskit/" target="_blank" rel="nofollow">
-                                <img src="https://raiconsultancyservices.com/wp-content/uploads/2024/01/logo_3-removebg-preview.png" alt="" />
-                            </a>
+                        <h1 className="d-inline-block align-top font-weight-bold">
+                        <span className='text-primary'>Soft </span>Emerald
+                        </h1>
                         </Logo>
                         <Description>
-                            <p>At Rai consultancy, we look into your expertise to find the strategic and innovative solution for your business to move upwards. Shape the future of your business and make it thrive.</p>
+                            <p>At soft emerald, we look into your expertise to find the strategic and innovative solution for your business to move upwards. Shape the future of your business and make it thrive.</p>
                         </Description>
                     </Column>
                     <Column>
@@ -37,7 +37,7 @@ const FooterSection = () => {
                         <Heading>Contact Us</Heading>
                         <ContactList>
                             <ContactItem>
-                                <a href="mailto:info@raiconsultancyservices.com">info@raiconsultancyservices.com</a>
+                                <a href="mailto:info@raiconsultancyservices.com">info@softemeraldservices.com</a>
                             </ContactItem>
                             <ContactItem>
                                 <span>10300 49St N STE 427, Clearwater, FL, 33762, USA</span>

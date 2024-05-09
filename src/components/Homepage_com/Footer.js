@@ -8,7 +8,7 @@ const Footer = () => {
         <Section className='bg-warning'>
             <Container>
                 <Column>
-                    <Heading>Rai Consultancy Services. All Rights Reserved</Heading>
+                    <Heading>Soft Emerald Services. All Rights Reserved</Heading>
                 </Column>
                 <Column>
                     <SocialShare>
