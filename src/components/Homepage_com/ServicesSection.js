@@ -24,7 +24,7 @@ const ServicesSection = () => {
           <div className="col-md-4 mb-4">
             <div className="card h-100 border-0 shadow">
               <img
-                src="https://raiconsultancyservices.com/wp-content/uploads/2024/01/young-businessman-very-busy_1098-3068.jpg"
+                src="https://getwallpapers.com/wallpaper/full/4/6/a/916982-popular-marketing-wallpapers-1920x1080.jpg"
                 className="card-img-top img-fluid"
                 alt="Digital Marketing"
                 style={{ maxHeight: "250px" }} // Set max height for fixed size
@@ -42,7 +42,7 @@ const ServicesSection = () => {
           <div className="col-md-4 mb-4">
             <div className="card h-100 border-0 shadow">
               <img
-                src="https://raiconsultancyservices.com/wp-content/uploads/2024/01/welcome-tell-us-something-about-your-work-experience_637285-8931.jpg"
+                src="https://monitorgroup.me/wp-content/uploads/2016/12/corporate_finance_consultng.png"
                 className="card-img-top img-fluid"
                 alt="Financial Consulting"
                 style={{ maxHeight: "250px" }} // Set max height for fixed size
@@ -61,7 +61,7 @@ const ServicesSection = () => {
           <div className="col-md-4 mb-4">
             <div className="card h-100 border-0 shadow">
               <img
-                src="https://raiconsultancyservices.com/wp-content/uploads/2024/01/ezgif-7-9cf230d00d.png"
+                src="https://www.askedithaboutbizplans.com/wp-content/uploads/2018/05/market-research-.jpg"
                 className="card-img-top img-fluid"
                 alt="Market Research"
                 style={{ maxHeight: "250px" }} // Set max height for fixed size

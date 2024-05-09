@@ -3,7 +3,7 @@ import React from "react";
 const HomePageSection = () => {
   const sectionStyle = {
     backgroundImage:
-      "url(https://wallpapercave.com/wp/wp7098419.jpg)",
+      "url(https://i.ebayimg.com/images/g/iuMAAOSw~M1ZlSLv/s-l400.jpg)",
     backgroundSize: "cover",
     backgroundRepeat: "no-repeat",
     padding: "60px 0",

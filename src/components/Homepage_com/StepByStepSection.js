@@ -58,37 +58,37 @@ const StepByStepSection = () => {
                   Informed Analysis
                 </li>
                 <li style={listItemStyles}>
-                  <svg className="mr-2 text-success text-success" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-square" viewBox="0 0 16 16">
+                  <svg className="mr-2 text-success" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style={iconStyles}>
                     <path d="M0 0v16h16V0H0zm12.854 4.646a.5.5 0 0 1 .708.708l-7 7a.5.5 0 0 1-.708 0L3.5 9.707a.5.5 0 0 1 .708-.708L6 10.793l6.146-6.147z" />
                   </svg>
                   Personalized Answers
                 </li>
                 <li style={listItemStyles}>
-                  <svg className="mr-2 text-success" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-square" viewBox="0 0 16 16">
+                  <svg className="mr-2 text-success" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style={iconStyles}>
                     <path d="M0 0v16h16V0H0zm12.854 4.646a.5.5 0 0 1 .708.708l-7 7a.5.5 0 0 1-.708 0L3.5 9.707a.5.5 0 0 1 .708-.708L6 10.793l6.146-6.147z" />
                   </svg>
                   Recognized Skills
                 </li>
                 <li style={listItemStyles}>
-                  <svg className="mr-2 text-success" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-square" viewBox="0 0 16 16">
+                  <svg className="mr-2 text-success" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style={iconStyles}>
                     <path d="M0 0v16h16V0H0zm12.854 4.646a.5.5 0 0 1 .708.708l-7 7a.5.5 0 0 1-.708 0L3.5 9.707a.5.5 0 0 1 .708-.708L6 10.793l6.146-6.147z" />
                   </svg>
                   Team-based Strategy
                 </li>
                 <li style={listItemStyles}>
-                  <svg className="mr-2 text-success" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-square" viewBox="0 0 16 16">
+                  <svg className="mr-2 text-success" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style={iconStyles}>
                     <path d="M0 0v16h16V0H0zm12.854 4.646a.5.5 0 0 1 .708.708l-7 7a.5.5 0 0 1-.708 0L3.5 9.707a.5.5 0 0 1 .708-.708L6 10.793l6.146-6.147z" />
                   </svg>
                   Revolutionary Outcomes
                 </li>
                 <li style={listItemStyles}>
-                  <svg className="mr-2 text-success" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-square" viewBox="0 0 16 16">
+                  <svg className="mr-2 text-success" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style={iconStyles}>
                     <path d="M0 0v16h16V0H0zm12.854 4.646a.5.5 0 0 1 .708.708l-7 7a.5.5 0 0 1-.708 0L3.5 9.707a.5.5 0 0 1 .708-.708L6 10.793l6.146-6.147z" />
                   </svg>
                   Quick Adaptability
                 </li>
                 <li style={listItemStyles}>
-                  <svg className="mr-2 text-success" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-square" viewBox="0 0 16 16">
+                  <svg className="mr-2 text-success" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style={iconStyles}>
                     <path d="M0 0v16h16V0H0zm12.854 4.646a.5.5 0 0 1 .708.708l-7 7a.5.5 0 0 1-.708 0L3.5 9.707a.5.5 0 0 1 .708-.708L6 10.793l6.146-6.147z" />
                   </svg>
                   Tech Inclusion
