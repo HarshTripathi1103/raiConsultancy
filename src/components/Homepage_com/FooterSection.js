@@ -25,7 +25,7 @@ const FooterSection = () => {
             <PageList>
               <PageListItem>
                 <a
-                  href="https://raiconsultancyservices.com/home/"
+                  href="/home"
                   target="_blank"
                   rel="nofollow"
                 >
@@ -34,7 +34,7 @@ const FooterSection = () => {
               </PageListItem>
               <PageListItem>
                 <a
-                  href="https://raiconsultancyservices.com/sample-page/"
+                  href="/about"
                   target="_blank"
                   rel="nofollow"
                 >
@@ -43,7 +43,7 @@ const FooterSection = () => {
               </PageListItem>
               <PageListItem>
                 <a
-                  href="https://raiconsultancyservices.com/features/"
+                  href="/features"
                   target="_blank"
                   rel="nofollow"
                 >
@@ -52,7 +52,7 @@ const FooterSection = () => {
               </PageListItem>
               <PageListItem>
                 <a
-                  href="https://raiconsultancyservices.com/services/"
+                  href="/services"
                   target="_blank"
                   rel="nofollow"
                 >
