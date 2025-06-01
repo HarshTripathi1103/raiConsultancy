@@ -25,7 +25,7 @@ const FooterSection = () => {
             <PageList>
               <PageListItem>
                 <a
-                  href="/home"
+                  href="/"
                   target="_blank"
                   rel="nofollow"
                 >
@@ -68,6 +68,9 @@ const FooterSection = () => {
                 <a href="mailto:raiconsultancyservices.info@gmail.com">
                   raiconsultancyservices.info@gmail.com
                 </a>
+              </ContactItem>
+              <ContactItem>
+                <a href="tel:+1(415)723-5882">+1 (415) 723-5882</a>
               </ContactItem>
               <ContactItem>
                 <span>10300 49St N STE 427, Clearwater, FL, 33762, USA</span>

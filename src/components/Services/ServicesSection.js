@@ -44,9 +44,9 @@ const ServicesSection = () => {
           </Col>
           <Col md={6}>
             <ServiceBox
-              title="Digital Marketing"
+              title="Building Online Presence"
               image="https://foundersguide.com/wp-content/uploads/2020/02/digital-marketing.jpg"
-              description="Rai Consultancy's digital marketing services infuse creativity into your marketing plans. We improve your brand's online visibility with services including content production, social media management, SEO, and online advertising. We make sure that your digital efforts result in quantifiable results with our data-driven strategy."
+              description="Rai Consultancy's Building Online Presence services infuse creativity into your marketing plans. We improve your brand's online visibility with services including content production, social media management, SEO, and online advertising. We make sure that your digital efforts result in quantifiable results with our data-driven strategy."
             />
           </Col>
           <Col md={6}>

@@ -26,11 +26,13 @@ const ServicesSection = () => {
               <img
                 src="https://getwallpapers.com/wallpaper/full/4/6/a/916982-popular-marketing-wallpapers-1920x1080.jpg"
                 className="card-img-top img-fluid"
-                alt="Digital Marketing"
+                alt="Building Online Presence"
                 style={{ maxHeight: "250px" }} // Set max height for fixed size
               />
               <div className="card-body">
-                <h2 className="card-title text-danger">Digital Marketing</h2>
+                <h2 className="card-title text-danger">
+                  Building Online Presence
+                </h2>
                 <p className="card-text text-muted">
                   Digitization by Rai Consultancy provides its clients with the
                   strategies to build digital platforms and be known digitally.
