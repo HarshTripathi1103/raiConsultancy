@@ -33,7 +33,7 @@ const CustomNavbar = () => {
                 <Container>
                     <Navbar.Brand href="#" className="order-lg-first">
                         <h1 className="d-inline-block align-top font-weight-bold">
-                        <span className='text-primary'>Rai </span>Consultancy <span className='text-primary'>Services</span>
+                        <span className='text-primary'>Rai </span>Consultancy<br/><span className='text-primary'>Services</span>
                         </h1>
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
