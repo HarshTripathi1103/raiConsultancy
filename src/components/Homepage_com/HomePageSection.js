@@ -59,10 +59,10 @@ const HomePageSection = () => {
             <p style={paragraphStyle}>
               The commitment of consultancy and solutions for your business. We
               are the pioneers of providing consultancy in business growth and
-              development. At Rai Consultancy, we look into your expertise to
-              find the strategic and innovative solution for your business to
-              move upwards. Shape the future of your business and make it
-              thrive.
+              development. At Rai Consultancy Services, we look into your
+              expertise to find the strategic and innovative solution for your
+              business to move upwards. Shape the future of your business and
+              make it thrive.
             </p>
           </div>
           <div className="col-md-6 shadow-lg p-4" style={formContainerStyle}>

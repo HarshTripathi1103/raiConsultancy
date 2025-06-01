@@ -29,7 +29,7 @@ const FAQSection = () => {
     {
       question: "Consulting Firm Apart From Others",
       answer:
-        "Rai Consultancy service’s Consulting stands out for its innovative solutions and personalized approach. Our team combines industry expertise with a commitment to client satisfaction, delivering measurable results for every project.",
+        "Rai Consultancy Services service’s Consulting stands out for its innovative solutions and personalized approach. Our team combines industry expertise with a commitment to client satisfaction, delivering measurable results for every project.",
     },
     {
       question: "How Do You Ensure Confidentiality",
@@ -44,7 +44,7 @@ const FAQSection = () => {
     {
       question: "Stay Up-To-Date With Industry Trends",
       answer:
-        "At Rai Consultancy service’s, we prioritize staying ahead of the curve. Our team regularly participates in industry conferences, workshops, and continuous professional development. Additionally, we maintain a robust network of professionals and subscribe to various industry publications to ensure we are well-informed about the latest trends and changes. This commitment allows us to offer cutting-edge solutions and insights to our clients.",
+        "At Rai Consultancy Services service’s, we prioritize staying ahead of the curve. Our team regularly participates in industry conferences, workshops, and continuous professional development. Additionally, we maintain a robust network of professionals and subscribe to various industry publications to ensure we are well-informed about the latest trends and changes. This commitment allows us to offer cutting-edge solutions and insights to our clients.",
     },
   ];
 

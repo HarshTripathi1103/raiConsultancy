@@ -14,8 +14,8 @@ const TestimonialSection = () => {
               <Carousel.Item>
                 <TestimonialItem>
                   <TestimonialQuote>
-                    "Rai Consultancy's collaborative approach made all the
-                    difference. Their team seamlessly integrated with ours,
+                    "Rai Consultancy Services's collaborative approach made all
+                    the difference. Their team seamlessly integrated with ours,
                     delivering exceptional results. A reliable consultancy for
                     any business."
                   </TestimonialQuote>
@@ -37,9 +37,9 @@ const TestimonialSection = () => {
               <Carousel.Item>
                 <TestimonialItem>
                   <TestimonialQuote>
-                    "Rai Consultancy transformed our business strategy. Their
-                    tailored approach and expert guidance brought measurable
-                    success. Highly recommended!"
+                    "Rai Consultancy Services transformed our business strategy.
+                    Their tailored approach and expert guidance brought
+                    measurable success. Highly recommended!"
                   </TestimonialQuote>
                   <TestimonialFooter>
                     <TestimonialImage
@@ -59,9 +59,9 @@ const TestimonialSection = () => {
               <Carousel.Item>
                 <TestimonialItem>
                   <TestimonialQuote>
-                    "Working with Rai Consultancy was a game-changer. Their
-                    innovative solutions and responsive communication exceeded
-                    our expectations. Truly a strategic partner!"
+                    "Working with Rai Consultancy Services was a game-changer.
+                    Their innovative solutions and responsive communication
+                    exceeded our expectations. Truly a strategic partner!"
                   </TestimonialQuote>
                   <TestimonialFooter>
                     <TestimonialImage

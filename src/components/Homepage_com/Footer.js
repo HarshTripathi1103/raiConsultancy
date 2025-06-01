@@ -12,7 +12,9 @@ const Footer = () => {
     <Section className="bg-warning">
       <Container>
         <Column>
-          <Heading>Rai Consultancy Services. All Rights Reserved</Heading>
+          <Heading>
+            Rai Consultancy Services Services. All Rights Reserved
+          </Heading>
         </Column>
         <Column>
           <SocialShare>

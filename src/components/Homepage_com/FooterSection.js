@@ -1,4 +1,3 @@
-
 import styled from "styled-components";
 
 const FooterSection = () => {
@@ -14,8 +13,8 @@ const FooterSection = () => {
             </Logo>
             <Description>
               <p>
-                At Rai Consultancy, we look into your expertise to find the
-                strategic and innovative solution for your business to move
+                At Rai Consultancy Services, we look into your expertise to find
+                the strategic and innovative solution for your business to move
                 upwards. Shape the future of your business and make it thrive.
               </p>
             </Description>
@@ -24,38 +23,22 @@ const FooterSection = () => {
             <Heading>Subscribe Now</Heading>
             <PageList>
               <PageListItem>
-                <a
-                  href="/"
-                  target="_blank"
-                  rel="nofollow"
-                >
+                <a href="/" target="_blank" rel="nofollow">
                   Home
                 </a>
               </PageListItem>
               <PageListItem>
-                <a
-                  href="/about"
-                  target="_blank"
-                  rel="nofollow"
-                >
+                <a href="/about" target="_blank" rel="nofollow">
                   About Us
                 </a>
               </PageListItem>
               <PageListItem>
-                <a
-                  href="/features"
-                  target="_blank"
-                  rel="nofollow"
-                >
+                <a href="/features" target="_blank" rel="nofollow">
                   Features
                 </a>
               </PageListItem>
               <PageListItem>
-                <a
-                  href="/services"
-                  target="_blank"
-                  rel="nofollow"
-                >
+                <a href="/services" target="_blank" rel="nofollow">
                   Services
                 </a>
               </PageListItem>

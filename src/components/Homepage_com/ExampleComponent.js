@@ -19,9 +19,10 @@ const ExampleComponent = () => {
               <h2>Expert Guidance</h2>
               <p>
                 Guidance by the experienced is not a low but a great beginning
-                to the journey of success. Rai Consultancy has experienced
-                individuals that know exactly how to help your business reach
-                heights. Let’s begin your progress with the first step.
+                to the journey of success. Rai Consultancy Services has
+                experienced individuals that know exactly how to help your
+                business reach heights. Let’s begin your progress with the first
+                step.
               </p>
             </div>
             <div className="col-md-6">
@@ -38,16 +39,18 @@ const ExampleComponent = () => {
               <h2>Proven Results</h2>
               <p>
                 Show confidence in our track record of accomplishments. With its
-                proven experience, Rai Consultancy transforms obstacles into
-                opportunities and produces measurable, life-changing outcomes.
+                proven experience, Rai Consultancy Services transforms obstacles
+                into opportunities and produces measurable, life-changing
+                outcomes.
               </p>
             </div>
             <div className="col-md-6">
               <h2>Collaborative Approach</h2>
               <p>
                 Our culture is ingrained with cooperation. Rai Consultancy
-                Services takes a collaborative approach, collaborating closely
-                with you to achieve common objectives and long-term success.
+                Services Services takes a collaborative approach, collaborating
+                closely with you to achieve common objectives and long-term
+                success.
               </p>
             </div>
           </div>

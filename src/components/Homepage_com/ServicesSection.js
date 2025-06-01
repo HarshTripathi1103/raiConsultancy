@@ -16,8 +16,8 @@ const ServicesSection = () => {
             Expertise
           </h2>
           <p className="text-muted">
-            Rai Consultancy offers unparalleled services. Here are the most
-            recognized services by us.
+            Rai Consultancy Services offers unparalleled services. Here are the
+            most recognized services by us.
           </p>
         </div>
         <div className="row">
@@ -34,9 +34,10 @@ const ServicesSection = () => {
                   Building Online Presence
                 </h2>
                 <p className="card-text text-muted">
-                  Digitization by Rai Consultancy provides its clients with the
-                  strategies to build digital platforms and be known digitally.
-                  We come up with tactics to emphasize on your digital presence.
+                  Digitization by Rai Consultancy Services provides its clients
+                  with the strategies to build digital platforms and be known
+                  digitally. We come up with tactics to emphasize on your
+                  digital presence.
                 </p>
               </div>
             </div>
@@ -53,9 +54,9 @@ const ServicesSection = () => {
                 <h2 className="card-title text-danger">Financial Consulting</h2>
                 <p className="card-text text-muted">
                   Financial stability and assistance is a goal of all businesses
-                  and Rai Consultancy keeps that in mind and builds plans for
-                  you that would help your business attain financial stability
-                  and growth.
+                  and Rai Consultancy Services keeps that in mind and builds
+                  plans for you that would help your business attain financial
+                  stability and growth.
                 </p>
               </div>
             </div>

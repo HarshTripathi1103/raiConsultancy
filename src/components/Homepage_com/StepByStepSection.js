@@ -49,12 +49,12 @@ const StepByStepSection = () => {
               <h2 style={titleStyles}>
                 A closer look at the{" "}
                 <span style={{ color: "#ff7469" }}>step by step</span>{" "}
-                functionality of Rai Consultancy
+                functionality of Rai Consultancy Services
               </h2>
               <p className="text-secondary">
-                Rai Consultancy follows a step by step process in a timely
-                manner to attain your business’ success and stability. The
-                process goes by:
+                Rai Consultancy Services follows a step by step process in a
+                timely manner to attain your business’ success and stability.
+                The process goes by:
               </p>
               <ul style={listStyles} className="text-secondary">
                 <li style={listItemStyles}>

@@ -50,7 +50,7 @@ const AboutUsSection = () => {
                 Story"
               </h2>
               <p className="text-muted">
-                Welcome to <strong>Rai Consultancy</strong>, where{" "}
+                Welcome to <strong>Rai Consultancy Services</strong>, where{" "}
                 <strong>passion</strong> meets <strong>expertise</strong>, and
                 innovation fuels success. Our journey began with a shared{" "}
                 <strong>vision</strong> to redefine the landscape of business
@@ -84,10 +84,10 @@ const AboutUsSection = () => {
                 The commitment of consultancy and solutions for your business.
                 We are the<strong> pioneers</strong> of providing consultancy in
                 business <strong>growth</strong> and<strong> developmen</strong>
-                t. At Rai Consultancy, we look into your expertise to find the
-                strategic and <strong>innovative</strong> solution for your
-                business to move upwards. Shape the future of your business and
-                make it thrive.
+                t. At Rai Consultancy Services, we look into your expertise to
+                find the strategic and <strong>innovative</strong> solution for
+                your business to move upwards. Shape the future of your business
+                and make it thrive.
               </p>
             </div>
           </div>
