@@ -59,7 +59,7 @@ const HomePageSection = () => {
             <p style={paragraphStyle}>
               The commitment of consultancy and solutions for your business. We
               are the pioneers of providing consultancy in business growth and
-              development. At soft emerald, we look into your expertise to
+              development. At Rai Consultancy, we look into your expertise to
               find the strategic and innovative solution for your business to
               move upwards. Shape the future of your business and make it
               thrive.
@@ -87,7 +87,10 @@ const HomePageSection = () => {
                 placeholder="Email"
                 style={formControlStyle}
               />
-              <button type="submit" className="btn btn-success btn-lg btn-block">
+              <button
+                type="submit"
+                className="btn btn-success btn-lg btn-block"
+              >
                 Sign-Me Up!
               </button>
             </form>

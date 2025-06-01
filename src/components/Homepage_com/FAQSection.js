@@ -8,35 +8,43 @@ const FAQSection = () => {
   const faqData = [
     {
       question: "What Services Do You Offer",
-      answer: "Feel free to reach out to our team via email at info@raiconsultancyservices.com or give us a call at (555) 123-4567. You can also fill out the contact form on our website, and we’ll get back to you promptly."
+      answer:
+        "Feel free to reach out to our team via email at info@raiconsultancyservices.com or give us a call at (555) 123-4567. You can also fill out the contact form on our website, and we’ll get back to you promptly.",
     },
     {
       question: "How Can I Contact You To Discuss My Needs",
-      answer: "We have a diverse client base, including technology startups, financial institutions, and healthcare providers. Our adaptable approach allows us to bring valuable insights to a wide range of industries."
+      answer:
+        "We have a diverse client base, including technology startups, financial institutions, and healthcare providers. Our adaptable approach allows us to bring valuable insights to a wide range of industries.",
     },
     {
       question: "Scope And Cost Of A Consulting Project",
-      answer: "After an initial consultation, we work closely with you to understand your specific needs and goals. We then provide a detailed proposal outlining the scope, timeline, and cost of the project. Transparency is a cornerstone of our approach."
+      answer:
+        "After an initial consultation, we work closely with you to understand your specific needs and goals. We then provide a detailed proposal outlining the scope, timeline, and cost of the project. Transparency is a cornerstone of our approach.",
     },
     {
       question: "Case Studies From Previous Clients",
-      answer: "Certainly! Please contact us, and we’ll be happy to share relevant references and case studies that showcase our successful collaborations and positive outcomes."
+      answer:
+        "Certainly! Please contact us, and we’ll be happy to share relevant references and case studies that showcase our successful collaborations and positive outcomes.",
     },
     {
       question: "Consulting Firm Apart From Others",
-      answer: "soft emerald service’s Consulting stands out for its innovative solutions and personalized approach. Our team combines industry expertise with a commitment to client satisfaction, delivering measurable results for every project."
+      answer:
+        "Rai Consultancy service’s Consulting stands out for its innovative solutions and personalized approach. Our team combines industry expertise with a commitment to client satisfaction, delivering measurable results for every project.",
     },
     {
       question: "How Do You Ensure Confidentiality",
-      answer: "We prioritize the confidentiality of our clients. Our team adheres to strict confidentiality agreements, and we employ robust security measures to safeguard sensitive information throughout the consulting process."
+      answer:
+        "We prioritize the confidentiality of our clients. Our team adheres to strict confidentiality agreements, and we employ robust security measures to safeguard sensitive information throughout the consulting process.",
     },
     {
       question: "What Is Your Typical Engagement Process",
-      answer: "Our engagement process involves an initial consultation to understand your needs, followed by a comprehensive analysis and proposal. Upon agreement, we work collaboratively to implement tailored solutions, providing regular updates and feedback sessions to ensure success."
+      answer:
+        "Our engagement process involves an initial consultation to understand your needs, followed by a comprehensive analysis and proposal. Upon agreement, we work collaboratively to implement tailored solutions, providing regular updates and feedback sessions to ensure success.",
     },
     {
       question: "Stay Up-To-Date With Industry Trends",
-      answer: "At soft emerald service’s, we prioritize staying ahead of the curve. Our team regularly participates in industry conferences, workshops, and continuous professional development. Additionally, we maintain a robust network of professionals and subscribe to various industry publications to ensure we are well-informed about the latest trends and changes. This commitment allows us to offer cutting-edge solutions and insights to our clients."
+      answer:
+        "At Rai Consultancy service’s, we prioritize staying ahead of the curve. Our team regularly participates in industry conferences, workshops, and continuous professional development. Additionally, we maintain a robust network of professionals and subscribe to various industry publications to ensure we are well-informed about the latest trends and changes. This commitment allows us to offer cutting-edge solutions and insights to our clients.",
     },
   ];
 
@@ -48,7 +56,9 @@ const FAQSection = () => {
     <Section className="px-5">
       <Container>
         <Heading>Frequently Asked Questions</Heading>
-        <Subheading>Got questions? We have got the best answers for you.</Subheading>
+        <Subheading>
+          Got questions? We have got the best answers for you.
+        </Subheading>
         <FAQList>
           {faqData.map((faq, index) => (
             <FAQItem key={index}>

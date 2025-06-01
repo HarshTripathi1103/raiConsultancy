@@ -50,13 +50,13 @@ const AboutUsSection = () => {
                 Story"
               </h2>
               <p className="text-muted">
-                Welcome to <strong>soft emerald</strong>, where <strong>passion</strong>{" "}
-                meets <strong>expertise</strong>, and innovation fuels success.
-                Our journey began with a shared <strong>vision</strong> to
-                redefine the landscape of business consultancy. Our{" "}
-                <strong>mission</strong> is clear — to empower businesses, large
-                and small, to navigate the complexities of the modern
-                marketplace with confidence. We believe in the power of{" "}
+                Welcome to <strong>Rai Consultancy</strong>, where{" "}
+                <strong>passion</strong> meets <strong>expertise</strong>, and
+                innovation fuels success. Our journey began with a shared{" "}
+                <strong>vision</strong> to redefine the landscape of business
+                consultancy. Our <strong>mission</strong> is clear — to empower
+                businesses, large and small, to navigate the complexities of the
+                modern marketplace with confidence. We believe in the power of{" "}
                 <strong>innovation, strategic thinking</strong>, and the impact
                 of collaborative partnerships. Through a{" "}
                 <strong>client-centric</strong> approach, we aim to be the
@@ -84,7 +84,7 @@ const AboutUsSection = () => {
                 The commitment of consultancy and solutions for your business.
                 We are the<strong> pioneers</strong> of providing consultancy in
                 business <strong>growth</strong> and<strong> developmen</strong>
-                t. At soft emerald, we look into your expertise to find the
+                t. At Rai Consultancy, we look into your expertise to find the
                 strategic and <strong>innovative</strong> solution for your
                 business to move upwards. Shape the future of your business and
                 make it thrive.
@@ -107,20 +107,23 @@ const AboutUsSection = () => {
         </h1>
       </div>
       <div className="p-5" style={containerStyle}>
-      <img
-        loading="lazy"
-        decoding="async"
-        src="https://raiconsultancyservices.com/wp-content/uploads/2024/01/3-about.jpg"
-        alt=""
-        style={imgStyle}
-      />
-      <h4 style={{ fontSize: "1.2rem", fontWeight: "bold" }}>Astrid Hartman</h4>
-      <hr style={{ width: "50%", margin: "10px 0" }} />
-      <p style={{ fontSize: "1rem", marginBottom: "20px" }}>
-        Excellent service. What I liked most is their customer-centric approach
-      </p>
-      <button className="btn btn-primary">What My Clients Say</button>
-    </div>
+        <img
+          loading="lazy"
+          decoding="async"
+          src="https://raiconsultancyservices.com/wp-content/uploads/2024/01/3-about.jpg"
+          alt=""
+          style={imgStyle}
+        />
+        <h4 style={{ fontSize: "1.2rem", fontWeight: "bold" }}>
+          Astrid Hartman
+        </h4>
+        <hr style={{ width: "50%", margin: "10px 0" }} />
+        <p style={{ fontSize: "1rem", marginBottom: "20px" }}>
+          Excellent service. What I liked most is their customer-centric
+          approach
+        </p>
+        <button className="btn btn-primary">What My Clients Say</button>
+      </div>
     </div>
   );
 };
