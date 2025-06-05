@@ -55,10 +55,7 @@ const FooterSection = () => {
               </ContactItem>
               <ContactItem>
                 <a href="tel:+1(415)723-5882">+1 (415) 723-5882</a>
-              </ContactItem>
-              <ContactItem>
-                <span>10300 49St N STE 427, Clearwater, FL, 33762, USA</span>
-              </ContactItem>
+              </ContactItem> 
             </ContactList>
           </Column>
         </Row>
